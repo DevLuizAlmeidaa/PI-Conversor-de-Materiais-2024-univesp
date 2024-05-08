@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+## 💻 Projeto integrador I - univesp
 
 O Conversor de materiais foi criado para facilitar a vida na hora de efetuar a compra das chaparias.
 
